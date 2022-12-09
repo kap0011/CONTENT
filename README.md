@@ -10,7 +10,7 @@ Tools: VsCode, Chrome, Github
 
 ## Simple Project Demo
 
-![]([https://github.com/dip0011/Demo.gif](https://github.com/dip0011/CONTENT/blob/main/Demo/CONTENT-DEMO.gif))
+![]([https://github.com/dip0011/CONTENT/blob/main/Demo/CONTENT-DEMO.gif))
 
 
 ## Available Scripts for Project Run
@@ -28,7 +28,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Assumptions/liberties
-Developed this project only for Images however it may be expanded to include gif & strip of images\
-For Image upload, I am currently using Image-URL as input instead of file for file upload because we are now a day using AWS and other services to store files and at the end it gives us Image-URL\
-Here, We Do not have Login/Register Functionality so hardcoded a profile user\
-At Form validation, I validated form using simple validations also we can easily accomplish the same thing with a react-hook form and yup or another library.
+1. Developed this project only for Images however it may be expanded to include gif & strip of images\
+2. For Image upload, I am currently using Image-URL as input instead of file for file upload because we are now a day using AWS and other services to store files and at the end it gives us Image-URL\
+3. Here, We Do not have Login/Register Functionality so hardcoded a profile user\
+4. At Form validation, I validated form using simple validations also we can easily accomplish the same thing with a react-hook form and yup or another library.

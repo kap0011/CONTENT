@@ -10,7 +10,7 @@ Tools: VsCode, Chrome, Github
 
 ## Simple Project Demo
 
-![]([https://github.com/dip0011/CONTENT/blob/main/Demo/CONTENT-DEMO.gif])
+![]([[https://github.com/dip0011/CONTENT/blob/main/Demo/CONTENT-DEMO.gif]](https://github.com/dip0011/CONTENT/blob/main/Demo/CONTENT-DEMO.gif))
 
 
 ## Available Scripts for Project Run
